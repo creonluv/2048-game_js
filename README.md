@@ -4,7 +4,7 @@ In this game, the goal is to merge cells with identical numbers until you reach 
 
 The board is a 4 x 4 grid, holding up to 16 cells. If the grid fills up and no further moves, like merging cells, are possible, the game ends.
 
-## [DEMO](https://creonluv.github.io/game-2048_js/)
+## [DEMO](https://creonluv.github.io/2048-game_js/)
 
 ## Technologies used
 
